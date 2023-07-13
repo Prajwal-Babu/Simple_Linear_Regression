@@ -1,2 +1,2 @@
 # Simple_Linear_Regression
-This repository contains a simple implementation of linear regression, a fundamental machine learning algorithm used for predicting a dependent variable based on a single independent variable.
+This repository contains a simple implementation of linear regression, a fundamental machine learning algorithm used for predicting a dependent variable based on a single independent variable.The code showcases how to train a linear regression model and make predictions using the least squares method. It serves as a great starting point for understanding and experimenting with linear regression.
